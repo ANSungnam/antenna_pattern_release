@@ -1,0 +1,34 @@
+{
+  "project": "Antenna Pattern Tauri",
+  "version": "v0.01.00",
+  "source_commit": "9b6346c1c1ab5683c7ac3c1fe243bebddb46ded0",
+  "release_tag": "tauri-v0.01.00",
+  "public_url": "https://54.116.163.45/antenna/",
+  "assets": [
+    {
+      "name": "antenna-pattern-tauri-v0.01.00-windows-x64.zip",
+      "bytes": 4111449,
+      "sha256": "6583b7d5f4e71a3229c17a1f068ab4961b95eee1dd1bb44de76a829f2566318e"
+    },
+    {
+      "name": "antenna-pattern-tauri-v0.01.00.exe",
+      "bytes": 9683968,
+      "sha256": "cd430deefc0e60d8c13f11a7a30810310aee94786f67e1a2a0f80e69387ec2a6"
+    },
+    {
+      "name": "antenna-pattern-v0.01.00-ubuntu24.04-x86_64.tar.gz",
+      "bytes": 3260121,
+      "sha256": "61e76c966b6a657433835bd84832dd83bccb103bd3554c68f93385f9063e2347"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 424,
+      "sha256": "f9f8051e2562526ae702d383a1714f74896f790e87d7b7b8daef7a2aecdb26e0"
+    },
+    {
+      "name": "VALIDATION-v0.01.00.md",
+      "bytes": 2712,
+      "sha256": "18c0b5c51846a28dfe5bb3b1d507493e8e8bd8cfde327fe88d84eb738d9bf1e6"
+    }
+  ]
+}
